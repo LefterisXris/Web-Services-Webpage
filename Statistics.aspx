@@ -14,7 +14,7 @@
 
 </head>
 
-<body style="background-image: url('1.jpg')">
+<body style="background-image: url('Images/statistics_bg.jpg')">
 
     <!-- Navigation menu fixed -->
     <nav class="navbar navbar-inverse navbar-fixed-top">

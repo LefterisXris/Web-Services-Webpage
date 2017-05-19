@@ -15,7 +15,7 @@
 
 </head>
 
-<body style="background-image: url('chemistry_background_lab_tools_icons_molecule_formulas_ornament_6828894.jpg')">
+<body style="background-image: url('Images/chemistry_bg.jpg')">
 
     <!-- Navigation menu fixed -->
     <nav class="navbar navbar-inverse navbar-fixed-top">
