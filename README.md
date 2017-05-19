@@ -13,3 +13,13 @@ There are 6 different web services in this website. 4 of them are for unit conve
 
 You can navigate to the project to explore it more. There are some screenshots below if anyone is interested.
 
+## The chemistry page:
+![Chemistry](Images/chemistry_screenshot.JPG)
+
+
+## The statistics page:
+![Statistics](Images/statistics_screenshot.JPG)
+
+
+## The converters page:
+![Converters](Images/converters_screenshot.JPG)
